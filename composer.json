@@ -1,0 +1,30 @@
+{
+  "name": "powerkernel/yii-push",
+  "description": "Yii Push Notification Component",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii",
+    "extension",
+    "behavior",
+    "push"
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=7.1.0"   
+  },
+  "autoload": {
+    "psr-4": {
+      "powerkernel\\yiipush\\": "src"
+    }
+  },
+  "authors": [
+    {
+      "name": "Sagar Patel",
+      "email": "sagarpatel8153@gmail.com"
+    },
+    {
+      "name": "Harry Tang",
+      "email": "harry@powerkernel.com"
+    }
+  ]
+}
